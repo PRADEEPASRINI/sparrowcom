@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sparrowcom/static/css/main.0db8e0c8.css",
+    "main.js": "/sparrowcom/static/js/main.35d77de0.js",
+    "index.html": "/sparrowcom/index.html",
+    "main.0db8e0c8.css.map": "/sparrowcom/static/css/main.0db8e0c8.css.map",
+    "main.35d77de0.js.map": "/sparrowcom/static/js/main.35d77de0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0db8e0c8.css",
+    "static/js/main.35d77de0.js"
+  ]
+}
